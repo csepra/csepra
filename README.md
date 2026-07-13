@@ -8,4 +8,4 @@
 csepra/csepra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[!{leetcode_status}(![LeetCode Stats](https://leetcard.jacoblin.cool/praveen?theme=dark&font=Harmattan&colors=black&ext=contest)
+[!{leetcode_status}(![LeetCode Stats](https://leetcard.jacoblin.cool/praveen?theme=dark&font=Harmattan&colors=black&ext=contest)](https://leet code.com/praveen)
