@@ -140,7 +140,58 @@
 
 💼 LinkedIn:
 https://linkedin.com/in/praveen-s-ba588a380
+# 💻 Technical Skills Overview
 
+| Category | Skills |
+|-----------|--------|
+| ☁️ Cloud | AWS (EC2, S3, VPC, IAM, CloudWatch, Route 53, CloudTrail, AWS IoT Core) |
+| ⚙️ Infrastructure as Code | Terraform, State Management, AWS Provider |
+| 🐍 Programming | Python, Bash / Shell Scripting |
+| 🛠️ DevOps Tools | Git, GitHub, AWS CLI, Docker (Basics), Linux |
+| 🔒 Cybersecurity | Wireshark, Nmap, Kali Linux, Network Security |
+| 🌐 Networking | VPC, Security Groups, TCP/IP, Routing |
+
+---
+
+## 🚀 Skills Progress
+
+```text
+☁️ AWS Cloud             ████████████████████ 90%
+⚙️ Terraform             ██████████████████░ 85%
+🐍 Python                ████████████████░░░ 80%
+🐧 Linux                 ████████████████░░░ 80%
+🔒 Cybersecurity         ███████████████░░░░ 75%
+🐳 Docker                ████████████░░░░░░░ 60%
+🌱 Git & GitHub          █████████████████░░ 85%
+```
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,python,bash,linux,docker,git,github" />
+
+</p>
+
+---
+
+## 🔐 Security Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+</p>
 
 ---
 
