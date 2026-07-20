@@ -140,6 +140,9 @@
 
 💼 LinkedIn:
 https://linkedin.com/in/praveen-s-ba588a380
+## 📊 Contribution Graph
+
+[![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
 
 ---
 
